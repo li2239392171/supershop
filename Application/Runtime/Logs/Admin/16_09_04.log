@@ -1,0 +1,200 @@
+[ 2016-09-04T10:12:28+08:00 ] ::1 /SpSp/index.php/Admin/Goods/styles/global.css
+ERR: 非法操作:styles
+
+[ 2016-09-04T10:12:28+08:00 ] ::1 /SpSp/index.php/Admin/plugins/kindeditor/kindeditor.js
+ERR: 无法加载控制器:Plugins
+
+[ 2016-09-04T10:12:28+08:00 ] ::1 /SpSp/index.php/Admin/plugins/kindeditor/lang/zh_CN.js
+ERR: 无法加载控制器:Plugins
+
+[ 2016-09-04T10:12:28+08:00 ] ::1 /SpSp/index.php/Admin/Goods/scripts/jquery-1.6.4.js
+ERR: 非法操作:scripts
+
+[ 2016-09-04T10:12:31+08:00 ] ::1 /SpSp/index.php/Admin/Goods/uploads/
+ERR: 非法操作:uploads
+
+[ 2016-09-04T10:12:46+08:00 ] ::1 /SpSp/index.php/Admin/Goods/uploads/
+ERR: 非法操作:uploads
+
+[ 2016-09-04T10:13:05+08:00 ] ::1 /SpSp/index.php/Admin/admin/listProImages.php
+ERR: 非法操作:listProImages.php
+
+[ 2016-09-04T10:21:47+08:00 ] ::1 /SpSp/index.php/Admin/Goods/uploads/
+ERR: 非法操作:uploads
+
+[ 2016-09-04T10:21:55+08:00 ] ::1 /SpSp/index.php/Admin/Goods/uploads/
+ERR: 非法操作:uploads
+
+[ 2016-09-04T10:21:55+08:00 ] ::1 /SpSp/index.php/Admin/Goods/uploads/
+ERR: 非法操作:uploads
+
+[ 2016-09-04T10:22:03+08:00 ] ::1 /SpSp/index.php/Admin/admin/addCate.php
+ERR: 非法操作:addCate.php
+
+[ 2016-09-04T10:22:04+08:00 ] ::1 /SpSp/index.php/Admin/admin/listCate.php
+ERR: 非法操作:listCate.php
+
+[ 2016-09-04T10:32:30+08:00 ] ::1 /SpSp/index.php/Admin/admin/listCate.php
+ERR: 非法操作:listCate.php
+
+[ 2016-09-04T10:43:10+08:00 ] ::1 /SpSp/index.php/Admin/admin/addCate.php
+ERR: 非法操作:addCate.php
+
+[ 2016-09-04T10:43:13+08:00 ] ::1 /SpSp/index.php/Admin/admin/listCate.php
+ERR: 非法操作:listCate.php
+
+[ 2016-09-04T10:43:14+08:00 ] ::1 /SpSp/index.php/Admin/admin/addCate.php
+ERR: 非法操作:addCate.php
+
+[ 2016-09-04T10:43:23+08:00 ] ::1 /SpSp/index.php/Admin/Admin/listCate.html
+ERR: 非法操作:listCate
+
+[ 2016-09-04T10:43:27+08:00 ] ::1 /SpSp/index.php/Admin/Admin/listCate.html
+ERR: 非法操作:listCate
+
+[ 2016-09-04T10:43:41+08:00 ] ::1 /SpSp/index.php/Admin/Admin/listCate.html
+ERR: 非法操作:listCate
+
+[ 2016-09-04T10:43:43+08:00 ] ::1 /SpSp/index.php/Admin/Admin/listCate.html
+ERR: 非法操作:listCate
+
+[ 2016-09-04T10:43:44+08:00 ] ::1 /SpSp/index.php/Admin/Admin/listCate.html
+ERR: 非法操作:listCate
+
+[ 2016-09-04T10:43:45+08:00 ] ::1 /SpSp/index.php/Admin/Admin/listCate.html
+ERR: 非法操作:listCate
+
+[ 2016-09-04T10:44:35+08:00 ] ::1 /SpSp/index.php/Admin/Admin/listCate.html
+ERR: 非法操作:listCate
+
+[ 2016-09-04T10:44:36+08:00 ] ::1 /SpSp/index.php/Admin/Admin/addCate.html
+ERR: 非法操作:addCate
+
+[ 2016-09-04T10:45:07+08:00 ] ::1 /SpSp/index.php/Admin/Admin/addCate.html
+ERR: 非法操作:addCate
+
+[ 2016-09-04T10:45:08+08:00 ] ::1 /SpSp/index.php/Admin/Admin/addCate.html
+ERR: 非法操作:addCate
+
+[ 2016-09-04T10:45:17+08:00 ] ::1 /SpSp/index.php/Admin/Category/listCate.html
+ERR: Think\Model:listCate方法不存在！
+
+[ 2016-09-04T10:46:06+08:00 ] ::1 /SpSp/index.php/Admin/Category/listCate.html
+ERR: Think\Model:listCate方法不存在！
+
+[ 2016-09-04T10:46:07+08:00 ] ::1 /SpSp/index.php/Admin/Category/listCate.html
+ERR: Think\Model:listCate方法不存在！
+
+[ 2016-09-04T10:46:08+08:00 ] ::1 /SpSp/index.php/Admin/Category/listCate.html
+ERR: Think\Model:listCate方法不存在！
+
+[ 2016-09-04T10:46:09+08:00 ] ::1 /SpSp/index.php/Admin/Category/listCate.html
+ERR: Think\Model:listCate方法不存在！
+
+[ 2016-09-04T10:46:12+08:00 ] ::1 /SpSp/index.php/Admin/Category/listCate.html
+ERR: Think\Model:listCate方法不存在！
+
+[ 2016-09-04T10:49:00+08:00 ] ::1 /SpSp/index.php/Admin/Category/listCate.html
+ERR: Think\Model:listCate方法不存在！
+
+[ 2016-09-04T10:49:02+08:00 ] ::1 /SpSp/index.php/Admin/Category/listCate.html
+ERR: Think\Model:listCate方法不存在！
+
+[ 2016-09-04T10:49:04+08:00 ] ::1 /SpSp/index.php/Admin/Category/listCate.html
+ERR: Think\Model:listCate方法不存在！
+
+[ 2016-09-04T10:54:24+08:00 ] ::1 /SpSp/index.php/Admin/Category/listCate.html
+ERR: XML标签语法错误 : name="list" id="vo" empty=$empty
+
+[ 2016-09-04T11:02:22+08:00 ] ::1 /SpSp/index.php/Admin/Category/listAdmin
+ERR: 非法操作:listAdmin
+
+[ 2016-09-04T11:16:08+08:00 ] ::1 /SpSp/index.php/Admin/Category/doAdminAction.php?act=editCate&id=
+ERR: 非法操作:doAdminAction.php
+
+[ 2016-09-04T11:16:20+08:00 ] ::1 /SpSp/index.php/Admin/Category/doAdminAction.php?act=editCate&id=
+ERR: 非法操作:doAdminAction.php
+
+[ 2016-09-04T11:16:37+08:00 ] ::1 /SpSp/index.php/Admin/Category/doAdminAction.php?act=editCate&id=
+ERR: 非法操作:doAdminAction.php
+
+[ 2016-09-04T11:19:39+08:00 ] ::1 /SpSp/index.php/Admin/admin/addUser.php
+ERR: 非法操作:addUser.php
+
+[ 2016-09-04T16:06:57+08:00 ] ::1 /SpSp/index.php/Admin/admin/listUser.php
+ERR: 非法操作:listUser.php
+
+[ 2016-09-04T16:07:56+08:00 ] ::1 /SpSp/index.php/Admin/admin/listUser.php
+ERR: 非法操作:listUser.php
+
+[ 2016-09-04T16:07:59+08:00 ] ::1 /SpSp/index.php/Admin/admin/listUser.php
+ERR: 非法操作:listUser.php
+
+[ 2016-09-04T16:08:00+08:00 ] ::1 /SpSp/index.php/Admin/admin/addUser.php
+ERR: 非法操作:addUser.php
+
+[ 2016-09-04T16:08:01+08:00 ] ::1 /SpSp/index.php/Admin/admin/listUser.php
+ERR: 非法操作:listUser.php
+
+[ 2016-09-04T16:11:48+08:00 ] ::1 /SpSp/index.php/Admin/User/editUser.php?id=1
+ERR: 非法操作:editUser.php
+
+[ 2016-09-04T20:12:09+08:00 ] ::1 /SpSp/index.php/Admin/User/editUser.html?id=3
+ERR: 非法数据对象！
+
+[ 2016-09-04T20:12:54+08:00 ] ::1 /SpSp/index.php/Admin/User/editUser.html?id=3
+ERR: 1062:Duplicate entry '' for key 'username'
+ [ SQL语句 ] : UPDATE `user` SET `username`='',`password`='',`email`='1234567890@qq.com',`sex`='1' WHERE `id` = 3
+
+[ 2016-09-04T20:14:19+08:00 ] ::1 /SpSp/index.php/Admin/User/editUser.html?id=3
+ERR: 1062:Duplicate entry '' for key 'username'
+ [ SQL语句 ] : UPDATE `user` SET `username`='',`password`='',`email`='1234567890@qq.com',`sex`='1' WHERE `id` = 3
+
+[ 2016-09-04T20:23:41+08:00 ] ::1 /SpSp/index.php/Admin/User/editUser.html?id=4
+ERR: 非法数据对象！
+
+[ 2016-09-04T20:23:55+08:00 ] ::1 /SpSp/index.php/Admin/User/editUser.html?id=4
+ERR: 非法数据对象！
+
+[ 2016-09-04T20:30:34+08:00 ] ::1 /SpSp/index.php/Admin/Goods/uploads/
+ERR: 非法操作:uploads
+
+[ 2016-09-04T21:06:35+08:00 ] ::1 /SpSp/index.php/Admin/Goods/uploads/
+ERR: 非法操作:uploads
+
+[ 2016-09-04T21:06:39+08:00 ] ::1 /SpSp/index.php/Admin/Goods/styles/global.css
+ERR: 非法操作:styles
+
+[ 2016-09-04T21:06:39+08:00 ] ::1 /SpSp/index.php/Admin/plugins/kindeditor/kindeditor.js
+ERR: 无法加载控制器:Plugins
+
+[ 2016-09-04T21:06:39+08:00 ] ::1 /SpSp/index.php/Admin/plugins/kindeditor/lang/zh_CN.js
+ERR: 无法加载控制器:Plugins
+
+[ 2016-09-04T21:06:39+08:00 ] ::1 /SpSp/index.php/Admin/Goods/scripts/jquery-1.6.4.js
+ERR: 非法操作:scripts
+
+[ 2016-09-04T21:06:55+08:00 ] ::1 /SpSp/index.php/Admin/Goods/uploads/
+ERR: 非法操作:uploads
+
+[ 2016-09-04T21:07:58+08:00 ] ::1 /SpSp/index.php/Admin/Goods/styles/global.css
+ERR: 非法操作:styles
+
+[ 2016-09-04T21:07:58+08:00 ] ::1 /SpSp/index.php/Admin/plugins/kindeditor/kindeditor.js
+ERR: 无法加载控制器:Plugins
+
+[ 2016-09-04T21:07:58+08:00 ] ::1 /SpSp/index.php/Admin/Goods/scripts/jquery-1.6.4.js
+ERR: 非法操作:scripts
+
+[ 2016-09-04T21:07:58+08:00 ] ::1 /SpSp/index.php/Admin/plugins/kindeditor/lang/zh_CN.js
+ERR: 无法加载控制器:Plugins
+
+[ 2016-09-04T21:07:58+08:00 ] ::1 /SpSp/index.php/Admin/Goods/scripts/jquery-1.6.4.js
+ERR: 非法操作:scripts
+
+[ 2016-09-04T21:09:39+08:00 ] ::1 /SpSp/index.php/Admin/Goods/uploads/
+ERR: 非法操作:uploads
+
+[ 2016-09-04T21:09:41+08:00 ] ::1 /SpSp/index.php/Admin/Goods/styles/global.css
+ERR: 非法操作:styles
+

@@ -1,0 +1,48 @@
+[ 2016-08-27T00:55:53+08:00 ] ::1 /SpSp/index.php/Home/Login/getverify.html
+ERR: 非法操作:getverify
+
+[ 2016-08-27T00:55:53+08:00 ] ::1 /SpSp/index.php/Home/Login/getverify.html
+ERR: 非法操作:getverify
+
+[ 2016-08-27T00:55:55+08:00 ] ::1 /SpSp/index.php/Home/login/getverify.html
+ERR: 非法操作:getverify
+
+[ 2016-08-27T00:55:57+08:00 ] ::1 /SpSp/index.php/Home/login/getverify.html
+ERR: 非法操作:getverify
+
+[ 2016-08-27T00:56:01+08:00 ] ::1 /SpSp/index.php/Home/Login/getverify.html
+ERR: 非法操作:getverify
+
+[ 2016-08-27T00:56:01+08:00 ] ::1 /SpSp/index.php/Home/Login/getverify.html
+ERR: 非法操作:getverify
+
+[ 2016-08-27T01:08:56+08:00 ] ::1 /SpSp/index.php/Home/login/getverify.html0.9564631576587109
+ERR: 非法操作:getverify.html0.9564631576587109
+
+[ 2016-08-27T01:09:18+08:00 ] ::1 /SpSp/index.php/Home/login/getverify.html0.8545044592710137
+ERR: 非法操作:getverify.html0.8545044592710137
+
+[ 2016-08-27T01:09:20+08:00 ] ::1 /SpSp/index.php/Home/login/getverify.html0.4124282774646153
+ERR: 非法操作:getverify.html0.4124282774646153
+
+[ 2016-08-27T01:46:09+08:00 ] ::1 /SpSp/index.php/Home/Login/verify.html
+ERR: 非法操作:verify
+
+[ 2016-08-27T19:42:18+08:00 ] ::1 /SpSp/home/home/index
+ERR: 无法加载控制器:Home
+
+[ 2016-08-27T19:44:14+08:00 ] ::1 /SpSp/home/home/index
+ERR: 无法加载控制器:Home
+
+[ 2016-08-27T19:44:19+08:00 ] ::1 /SpSp/home/style/reset.css
+ERR: 无法加载控制器:Style
+
+[ 2016-08-27T19:44:19+08:00 ] ::1 /SpSp/home/style/main.css
+ERR: 无法加载控制器:Style
+
+[ 2016-08-27T19:44:21+08:00 ] ::1 /SpSp/home/home/index
+ERR: 无法加载控制器:Home
+
+[ 2016-08-27T19:44:40+08:00 ] ::1 /SpSp/home/home/index
+ERR: 无法加载控制器:Home
+
